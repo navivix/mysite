@@ -1,0 +1,8 @@
+__pycache__/
+polls/__pycache__/
+polls/migrations/
+db.sqlite3
+.idea
+.vscode
+manage.py
+mysite/
