@@ -1,6 +1,5 @@
 __pycache__/
-polls/__pycache__/
-polls/migrations/
+.DS_Store
 db.sqlite3
 .idea
 .vscode
